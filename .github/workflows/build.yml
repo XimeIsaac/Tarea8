@@ -6,4 +6,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run cuchau
-        run: python3 app.py 
+        run: python3 archivo.py 
