@@ -6,4 +6,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run tests
-        run: python3 app.py 
+      - run: python3 app.py 
